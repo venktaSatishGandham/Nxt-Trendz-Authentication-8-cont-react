@@ -1,0 +1,11 @@
+.cart-list {
+  padding-left: 0px;
+}
+
+.empty-cart {
+  text-align: center;
+  top: 200px;
+  color: rgb(87, 94, 100);
+  font-size: 40px;
+  font-family: 'roboto';
+}
